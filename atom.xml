@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://castielchao.github.io</id>
+    <title>Castiel&apos;s Blog</title>
+    <updated>2022-10-30T17:46:58.092Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://castielchao.github.io"/>
+    <link rel="self" href="https://castielchao.github.io/atom.xml"/>
+    <subtitle>innocent and sentimental</subtitle>
+    <logo>https://castielchao.github.io/images/avatar.png</logo>
+    <icon>https://castielchao.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Castiel&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一个测试博客]]></title>
+        <id>https://castielchao.github.io/001test/</id>
+        <link href="https://castielchao.github.io/001test/">
+        </link>
+        <updated>2022-10-27T18:25:56.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<h2 id="我是标题2">我是标题2</h2>
+<p>###我是标题3</p>
+<p><strong>这是一些加粗的文字</strong></p>
+<p>这是没有加粗的文字</p>
+<p><em>这是斜体</em> <em>这是斜体</em></p>
+<figure data-type="image" tabindex="1"><img src="https://castielchao.github.io/post-images/1666896356798.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
